@@ -1,5 +1,5 @@
 # CEW-OEL-API-
-"A weather data API"
+"An automated weather data Application"
 
 Run the application:
 - Run the shell script file "run.sh"
