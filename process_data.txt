@@ -1,0 +1,22 @@
+Execution Time: 2024-11-22 19:12:06
+Karachi, Pakistan 
+Current Temperature: 13.96°C
+Average Temperature: 12.08°C
+Humidity: 31%
+Weather: clear sky
+-------------------------------------------
+
+Execution Time: 2024-11-22 19:20:50
+Karachi, Pakistan 
+Current Temperature: 13.99°C
+Average Temperature: 12.37°C
+Humidity: 31%
+Weather: clear sky
+-------------------------------------------
+Execution Time: 2024-11-22 19:23:04
+Karachi, Pakistan 
+Current Temperature: 13.99°C
+Average Temperature: 12.37°C
+Humidity: 31%
+Weather: clear sky
+-------------------------------------------
